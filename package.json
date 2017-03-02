@@ -1,0 +1,28 @@
+{
+  "name": "simplebot",
+  "version": "1.0.0",
+  "description": "\"Building a bot using node.js on Microsoft Bot Framework\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhatta27/SimpleBot.git"
+  },
+  "keywords": [
+    "bot",
+    "slack",
+    "whatever"
+  ],
+  "author": "Abhishek Bhattacharya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhatta27/SimpleBot/issues"
+  },
+  "homepage": "https://github.com/abhatta27/SimpleBot#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
